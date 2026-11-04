@@ -1,0 +1,60 @@
+PYTHON WEEK 8 TOOLKIT PLAN
+
+TOOL 1: CALCULATOR
+
+Description:
+This tool performs addition, subtraction, multiplication and division.
+
+Menu text:
+
+1. Calculator
+2. Enter your first number
+3. Enter your second number
+4. Choose an operation
+5. Your answer is:
+
+Python concepts:
+
+- Conditional statements (if, elif, else)
+- User input
+- Variables
+- F-strings
+
+TOOL 2: NUMBER GUESSING GAME
+
+Description:
+This tool allows the user to guess a secret number until they get the correct answer.
+
+Menu text:
+
+1. Number Guessing Game
+2. Guess a number between 1 and 10:
+3. Too high! Try again.
+4. Too low! Try again.
+5. Congratulations! You guessed correctly.
+
+Python concepts:
+
+- While loop
+- Conditional statements
+- Variables
+- User input
+
+TOOL 3: TO-DO LIST
+
+Description:
+This tool allows users to add, view and manage their daily tasks.
+
+Menu text:
+
+1. To-Do List
+2. Add a task
+3. View tasks
+4. Exit
+
+Python concepts:
+
+- Lists
+- While loop
+- Conditional statements
+- F-strings
